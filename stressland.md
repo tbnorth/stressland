@@ -174,5 +174,7 @@ $$ \sqrt{MaxRel(ag. vars)^2 + MaxRel(dev. vars)^2} $$
  - GLEI-1 segment sheds × GLEI-1 200+ variables, PCA (US only)
  - GLEI-2 “5971” × GLEI-2 4 variables, SumRel, Euc. distance
  - SOLEC-2017 × GLAHF watersheds, Euc. distance
+ - NRRI has a table of **26** different combinations of
+   mapped stress and cookie cutters, and it's not complete.
 
 
