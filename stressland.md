@@ -15,6 +15,10 @@
 
 ## Point source
 
+ - locations not trusted, office vs. outfall etc.
+ - permitted vs. actual output
+ - warm water vs. phenyl mercuric acetate
+
 
 ## Roads
 
@@ -113,7 +117,7 @@ $$ \sqrt{MaxRel(ag. vars)^2 + MaxRel(dev. vars)^2} $$
 
 
 
-# Cookie cutters, the list
+# Cookie cutters,<br/>the list
 
 
 ## GLEI-1
@@ -129,21 +133,18 @@ $$ \sqrt{MaxRel(ag. vars)^2 + MaxRel(dev. vars)^2} $$
  - US and Canada
  - The “5971”, 5971 watersheds delineated by Tom Hollenhorst, US
    and Canada.
- - Embayments and High Energy sites, not synoptic, mean of watersheds
-   touching buffers.
- - US land cover from an unpublished hybrid dataset by Pete Wolter
+ - Embayments and High Energy sites, not synoptic
 
 
 ## GLAHF
 
- - 5593 watersheds, refinement of Tom's 5597, with input
+ - 5593 watersheds, refinement of Tom's 5971, with input
    from Tom.
- - US and Canada
- - Published land cover data
+ - US and Canada, includes islands
 
 
 
-# Mapped stress, the list
+# Mapped stress,<br/>the list
 
 
 ## GLEI-1
@@ -157,12 +158,14 @@ $$ \sqrt{MaxRel(ag. vars)^2 + MaxRel(dev. vars)^2} $$
 ## GLEI-2
 
  - 4-5 variables (point source discontinued)
+ - Land cover from an unpublished hybrid dataset by Pete Wolter
 
 
 ## “SOLEC-2017”
 
  - 4 variables, 2 times (2000 and 2010)
  - US and Canada
+ - Land cover from published data
 
 
 
@@ -171,4 +174,5 @@ $$ \sqrt{MaxRel(ag. vars)^2 + MaxRel(dev. vars)^2} $$
  - GLEI-1 segment sheds × GLEI-1 200+ variables, PCA (US only)
  - GLEI-2 “5971” × GLEI-2 4 variables, SumRel, Euc. distance
  - SOLEC-2017 × GLAHF watersheds, Euc. distance
+
 
