@@ -90,7 +90,7 @@ $$ \sqrt{MaxRel(ag. vars)^2 + MaxRel(dev. vars)^2} $$
 # Assigning stress to sites
 
 
-## Area Weigting
+## Area Weighting
 
  - Intersect site with watersheds, area weight by intersecting area
 
@@ -119,7 +119,7 @@ $$ \sqrt{MaxRel(ag. vars)^2 + MaxRel(dev. vars)^2} $$
 ## GLEI-1
 
  - 762 “segment sheds”, US only, area draining to shoreline segment,
-   segements run between midpoints between second order+ streams.
+   segments run between midpoints between second order+ streams.
  - “Complexes”, area draining to GLEI-1 sampling areas, not synoptic.
 
 
@@ -131,7 +131,7 @@ $$ \sqrt{MaxRel(ag. vars)^2 + MaxRel(dev. vars)^2} $$
    and Canada.
  - Embayments and High Energy sites, not synoptic, mean of watersheds
    touching buffers.
- - US landcover from an unpublished hybrid dataset by Pete Wolter
+ - US land cover from an unpublished hybrid dataset by Pete Wolter
 
 
 ## GLAHF
@@ -139,7 +139,7 @@ $$ \sqrt{MaxRel(ag. vars)^2 + MaxRel(dev. vars)^2} $$
  - 5593 watersheds, refinement of Tom's 5597, with input
    from Tom.
  - US and Canada
- - Published landcover data
+ - Published land cover data
 
 
 
@@ -151,7 +151,7 @@ $$ \sqrt{MaxRel(ag. vars)^2 + MaxRel(dev. vars)^2} $$
  - 200+ variables (Tom, again), soils, atmospheric deposition, etc.
    - PCA
  - also a subset, “CSI”, 86 variables
- - Landcover from an unpublished hybrid dataset by Pete Wolter
+ - Land cover from an unpublished hybrid dataset by Pete Wolter
 
 
 ## GLEI-2
