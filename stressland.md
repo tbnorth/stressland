@@ -1,6 +1,14 @@
+<!--
+
+Line spacing matters when editing these slides.  2 blank lines between
+vertically stacked slides, 3 between slides starting a new column.
+
+-->
 # Landscape stress maps
 
 ## Cookie Cutters × Stress Data
+
+Use `Space` to advance.  Edit slides [here](https://github.com/tbnorth/stressland/edit/gh-pages/stressland.md)
 
 
 
